@@ -1,5 +1,11 @@
-### Hi there 👋
+<h3> Hi there 👋 </h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kabbi159&show_icons=true&locale=en" alt="kabbi159" /></p>
 
+- 🌱  I’m currently interested in **Story Understanding** and **Story Generation**.
+- 💬  I updated **lists of stars**! Click and enjoy it!  👉[My Stars](https://github.com/kabbi159?tab=stars)👈
+- 📫 How to reach me: **kabbi159@gmail.com**
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkabbi159%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **kabbi159/kabbi159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
