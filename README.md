@@ -1,5 +1,5 @@
 <h3> Hi there 👋 </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kabbi159&show_icons=true&locale=en" alt="kabbi159" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kabbi159&show_icons=true&locale=en" alt="kabbi159" /></p> -->
 
 - 🌱  I’m currently interested in **Story Understanding** and **Story Generation**.
 - 💬  I updated **lists of stars**! Click and enjoy it!  👉[My Stars](https://github.com/kabbi159?tab=stars)👈
